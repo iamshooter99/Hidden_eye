@@ -3,7 +3,6 @@ os.system("ls")
 
 print("Hello Tarun Garg!")
 
-
 def sum(x,y):
   return x+y;
 
@@ -15,6 +14,6 @@ def sub(x,y):
 
 ans2=sub(2,3)
 print(ans2)
-
+print("Completed")
 # thanks 
 
